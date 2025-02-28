@@ -24,6 +24,10 @@ This shader:
    ```
 
 3. Save the shader file as `acidmiku_autoinverse.glsl` in this directory.
+4. Add (or append, if entry already exists) the following line to your mpv.conf file:
+```
+glsl-shaders="~~/shaders/invert_bright.glsl"
+```
 
 ## Usage
 
