@@ -63,7 +63,7 @@ The shader has two main adjustable parameters:
 
 ## Example
 
-https://github.com/acidmiku/mpv-autoinvert/blob/main/example.mp4
+![](https://github.com/acidmiku/mpv-autoinvert/blob/main/example.gif)
 
 ## Performance
 
