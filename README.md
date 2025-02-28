@@ -72,4 +72,4 @@ No measurable impact on performance.
 ## License
 
 This shader is released under the Apache License. Feel free to modify and distribute it according to your needs.
-3. Submit a pull request
+
