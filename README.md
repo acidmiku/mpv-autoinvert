@@ -61,6 +61,10 @@ The shader has two main adjustable parameters:
 3. When the median brightness exceeds the threshold, it begins smoothly inverting colors
 4. Uses a smoothstep function to create a natural transition rather than a harsh cutoff
 
+## Example
+
+https://github.com/acidmiku/mpv-autoinvert/blob/main/example.mp4
+
 ## Performance
 
 No measurable impact on performance.
